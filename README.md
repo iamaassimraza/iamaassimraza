@@ -1,30 +1,26 @@
-Hello, I'm Aasim Raza 👋
+Hello, nerds
 
-Welcome to my GitHub! I’m a Full Stack Developer and Project Lead with a strong focus on Frontend development and a detailed eye for creating seamless, user-friendly interfaces. My expertise spans Angular (v6 to v18), SvelteKit, React, Node.js, PHP, SQL, WordPress, Shopify Customization, WebFlow, and SquareUp.
-
- 👉 **My Approach to Development**
-I believe in writing clean, reusable, and efficient code. My goal is always to write code once and reuse it across the project to maintain consistency and make future updates easy and efficient. I prioritize modular, maintainable code structures that reduce complexity, are easy to understand, and can be scaled as the project grows. For me, simplicity and clarity are as crucial as functionality.
+I believe in writing clean, reusable, and efficient code. My goal is always to write code once and reuse it across the project to maintain consistency and make future updates easy and efficient. I pay close attention to UI/UX details, ensuring a smooth, engaging experience across all devices. I’m a Full Stack Developer and Project Lead with a strong focus on Frontend development and a detailed eye for creating seamless, user-friendly interfaces. My expertise spans Angular (v6 to v18), SvelteKit, React, Node.js, PHP, SQL, WordPress, Shopify Customization, WebFlow, and SquareUp.
 
  👉 **Technologies & Skills**
 
 **Frontend:**
-Angular: Expertise across versions 6 through **version 18**, building scalable SPAs and optimized, responsive interfaces.
-React: Skilled in creating dynamic, reusable components and managing complex state with a keen focus on performance.
-HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript: Strong capabilities in delivering pixel-perfect, accessible UI with modern styling techniques.
-
-**Backend:**
-Node.js: Building reliable APIs with Express.js and handling complex server-side logic efficiently.
-PHP: Experienced in backend development for a wide range of applications, integrating seamlessly with frontend needs.
-SQL: Proficient in MySQL and PostgreSQL, designing optimized, relational databases and writing efficient queries.
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![API Integrations](https://img.shields.io/badge/-APIs-00BFFF?style=for-the-badge&logo=api&logoColor=white)
+![Long-Term Projects](https://img.shields.io/badge/-Long%20Term%20Projects-4CAF50?style=for-the-badge&logo=thumbs-up&logoColor=white)
 
 **Project Management:**
 Project Lead: Experienced in managing end-to-end development, guiding projects from planning to successful delivery.
 Collaboration & Agile: Familiar with Agile workflows and tools (JIRA, Trello) to drive collaborative development.
 
-**🌟 Core Strengths**
-Reusable Code: I focus on writing code that can be reused, modularized, and adapted easily across different parts of a project. My approach ensures minimal duplication and maximum efficiency.
-High-Quality Standards: Clean, consistent code with a focus on readability, scalability, and maintaining a well-organized codebase.
-Frontend Precision: I pay close attention to UI/UX details, ensuring a smooth, engaging experience across all devices.
+
 
 **📂 Featured Projects**
 ✪ https://www.hyro.ai/healthcare/
